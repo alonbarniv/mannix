@@ -23,7 +23,7 @@ int main() {
         printf("\n");
     }
 
-    //printMatrix_int8(&fc_weight[0]);
+    printMatrix_int8(&fc_weight[0]);
     //printf("TEST %d ", fc_weight[0].data[2]);
     return 0;
 }
